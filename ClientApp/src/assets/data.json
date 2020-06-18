@@ -1,0 +1,26 @@
+{
+  {
+    "name": "Toyota1",
+    "brand": "Celica",
+    "price": 35000,
+    "qty": 10,
+    "expdate": "01-01-2020",
+    "note": "test message"
+  },
+  {
+    "name": "Toyota2",
+    "brand": "Celica",
+    "price": 35000,
+    "qty": 10,
+    "expdate": "01-01-2020",
+    "note": "test message"
+  },
+  {
+    "name": "Toyota3",
+    "brand": "Celica",
+    "price": 35000,
+    "qty": 10,
+    "expdate": "01-01-2020",
+    "note": "test message"
+  }
+}
